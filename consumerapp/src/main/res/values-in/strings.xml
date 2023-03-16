@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Consume</string>
+    <string name="image_user">Gambar User</string>
+    <string name="name">Nama :</string>
+    <string name="username">Username :</string>
+</resources>
